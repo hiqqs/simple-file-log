@@ -1,2 +1,2 @@
-# simple-log
-simple npm node.js logger
+# simple-file-log
+simple npm node.js logger to given filepath
