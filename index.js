@@ -9,6 +9,3 @@ export function simpleLog (filepath, msg) {
 export function simpleLogSync (filepath, msg) {
     fs.writeFileSync(filepath, msg);
 };
-
-simpleLog('logs/simple-log.txt', 'testing simple log');
-simpleLogSync('logs/simple-log-sync.txt', 'testing simple log');
