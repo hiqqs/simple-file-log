@@ -1,0 +1,31 @@
+{
+  "name": "simple-log",
+  "version": "1.0.0",
+  "description": "a simple logger for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnhiggs/simple-log.git"
+  },
+  "keywords": [
+    "node",
+    "node.js",
+    "logging",
+    "log",
+    "logs",
+    "consoleoutput"
+  ],
+  "type": "module",
+  "author": "john ahigian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnhiggs/simple-log/issues"
+  },
+  "homepage": "https://github.com/johnhiggs/simple-log#readme",
+  "dependencies": {
+    "fs-extra": "^10.0.0"
+  }
+}
