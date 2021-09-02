@@ -1,5 +1,9 @@
 # simple-file-log
-simple npm node.js logger to given filepath
+simple node.js logger. create an appending log to any file path or type
+
+[![NPM](https://img.shields.io/npm/v/simple-file-log.svg?logo=npm&color=white&style=plastic)](https://www.npmjs.com/package/simple-file-log)
+[![Downloads/week](https://img.shields.io/npm/dw/releasetrain.svg?logo=apache-rocketmq&color=gold&style=plastic)](https://www.npmjs.com/package/simple-file-log)
+
 
 # Install
 `npm i simple-file-log`
