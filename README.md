@@ -6,6 +6,8 @@ simple npm node.js logger to given filepath
 
 # Example Usage
 
-```import { simpleLogSync } from 'simple-file-log';
+```
+import { simpleLogSync } from 'simple-file-log';
 
-simpleLogSync('./logs/simple-file.log', 'simple file log r0x your s0x!)```
+simpleLogSync('./logs/simple-file.log', 'simple file log r0x your s0x!);
+```
